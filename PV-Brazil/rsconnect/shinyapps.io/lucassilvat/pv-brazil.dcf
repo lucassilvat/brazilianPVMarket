@@ -1,0 +1,13 @@
+name: pv-brazil
+title:
+username:
+account: lucassilvat
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2368767
+bundleId: 3201056
+url: https://lucassilvat.shinyapps.io/pv-brazil/
+when: 1590682115.70929
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|ANEEL.csv|oldversions/app.R|oldversions/app_v02.R
